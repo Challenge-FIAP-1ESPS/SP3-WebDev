@@ -1,1 +1,1 @@
-# SP3-WebDev-FrontEnd
+# Sprint 3 - WebDev & FrontEnd
