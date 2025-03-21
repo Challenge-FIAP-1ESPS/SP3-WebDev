@@ -11,6 +11,9 @@
 
 O portal digital foi desenvolvido para integrar médicos, pacientes e equipes de apoio (limpeza, farmácia, manutenção e administração) do Hospital Sabará. A solução visa resolver problemas como falhas na comunicação, atrasos nos agendamentos, dificuldade no acesso a informações e ineficiência nos processos administrativos, trazendo uma maior organização e eficiência para o hospital.
 
+## Especificações Técnicas
+Com o avanço do projeto, algumas novas tecnologias estão sendo utilizadas, como a transição para o React + Vite. Além disso, o portal utiliza o localstorage para tratamento de dados, operações matemáticas (Math), entre outros recursos de JavaScript.Em termos de estilo, segue a paleta do Hospital Sabará, sendo altamente responsivo e personalizável.
+
 ## Funcionalidades
 - **Comunicação Eficiente:** Canal centralizado entre médicos, pacientes e equipes.
 - **Automatização de Processos:** Agendamento de consultas, registros médicos e controle de medicamentos.
@@ -30,5 +33,5 @@ O portal digital foi desenvolvido para integrar médicos, pacientes e equipes de
 - **Automatização de Processos:** No portal, é possível fazer qualquer atividade do setor hospitalar que envolva a enfermaria, medicina, farmácia, limpeza, manutenção e administração. 
 - **Chatbot:** Desenvolvimento de Chatbot para facilitar a comunicação entre as áreas.
 
-## Questões Técnicas
-Com o avanço do projeto, algumas novas tecnologias estão sendo utilizadas, como a transição para o React + Vite. Além disso, o portal utiliza o localstorage para tratamento de dados, operações matemáticas (Math), entre outros recursos de JavaScript.Em termos de estilo, segue a paleta do Hospital Sabará, sendo altamente responsivo e personalizável.
+## Anexos
+ADICIONAR ALGUMAS FOTOS
